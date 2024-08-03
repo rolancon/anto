@@ -68,6 +68,10 @@ Syllables can start with a vowel (including a diphthong), any single consonant, 
 
 Syllables can only end in vowel (including diphthongs), or any of the following single or double consonants: **m,n,l,r,s,t,q,w,y,p,f,k,sh,ng**.
 
+## Stress
+
+TODO
+
 ## Morphology and grammar
 
 Single-syllable words can belong to any grammatical category. Multi-syllable words belong to a specific grammatical category, specified by the ending of the word.
