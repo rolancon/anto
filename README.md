@@ -42,10 +42,10 @@ sh  | ʃ |
 t  | /t/ | 
 u  | /u/ | 
 v  | /v/ | 
-w  | /w/ | 
+w  | /w/ | Only found next to a vowel.
 x  | /dz/, /ks/ | Only pronounced _/dz/_- at the start of a word, otherwise -_/ks/_- in the middle of a word.
 xz  | /gz/ | Pronounced -_/gz/_-; only found in the middle of a word.
-y  | /j/ | 
+y  | /j/ | Only found next to a vowel.
 z  | /z/ | 
 
 Uncommon sounds are used in words derived from Greek and English.
@@ -59,10 +59,8 @@ dh  | /ð/ | English.
 oe  | /ə/ | Only found before an unstressed syllable. May be pronounced as rounded _/ɵ/_. English.
 q  | /x/ | Greek.
 th  | /θ/ | Greek and English.
-w  | /z/ | English.
-y  | /z/ | Greek English.
+w  | /ʊ/ | Only found next to a consonant. English.
+y  | /ɪ/ | Only found next to a consonant. Greek and English.
 
 # Morphology and grammar
-
-
 
