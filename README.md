@@ -5,9 +5,9 @@ The first draft version of the **Anto** auxiliary language, its current working 
 
 Ido was the first of the Esperanto offshoots (also known as Esperant**ido**s, meaning an **Esperanto** offshoot - hence the name). The name Anto in its turn is derived, being Ido's child, from the word for _child_ in Ido, _inf**anto**_, and is also a reference to its grandparent Esper**anto**. Other auxiliary languages from a later date, namely **Occidental-Interlingue**, **Novial** (incl. **Intal**), **Neo** and **Interglossa/Glosa**, have had a strong influence on the creation of the Anto language.
 
-## Orthography and phonoogy
+## Orthography and phonology
 
-Common sounds | IPA | Description
+Common sound | IPA | Description
 ---|---|---
 a  | /a/ | 
 ai  | /aɪ/ | Diphthong.
@@ -47,6 +47,22 @@ x  | /dz/, /ks/ | Only pronounced _/dz/_- at the start of a word, otherwise -_/k
 xz  | /gz/ | Pronounced -_/gz/_-; only found in the middle of a word.
 y  | /j/ | 
 z  | /z/ | 
+
+Uncommon sounds are used in words derived from Greek and English.
+Uncommon sound | IPA | Description
+---|---|---
+'  | /ʔ/ | Appears only next to a vowel.
+.  | // | Expresses a missing sound, may be pronounced as a schwa: /ə/.
+ae  | /ɑ/ | English.
+eu  | /ɛʊ/ | Diphthong. Greek.
+dh  | /ð/ | English.
+oe  | /ə/ | Only found before an unstressed syllable. May be pronounced as rounded _/ɵ/_. English.
+q  | /x/ | Greek.
+th  | /θ/ | Greek and English.
+w  | /z/ | English.
+y  | /z/ | Greek English.
+
+# Morphology and grammar
 
 
 
