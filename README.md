@@ -62,12 +62,12 @@ th  | /θ/ | Greek and English.
 w  | /ʊ/ | Only found next to a consonant. English.
 y  | /ɪ/ | Only found next to a consonant. Greek and English.
 
-# Phonotactics
+## Phonotactics
 
-Syllables can only start with a vowel (including diphthongs), any single consonants, or any of the following consonant combinations: [similar to English].
-Syllables can only end in vowel (including diphthongs), or any of the following consonants: **m,n,l,r,s,t,q,w,y,p,f,k,c,sh,ch,ng**.
+Syllables can start with a vowel (including a diphthong), any single consonant, or any of the following consonant combinations: [similar to English].
+Syllables can only end in vowel (including diphthongs), or any of the following single or double consonants: **m,n,l,r,s,t,q,w,y,p,f,k,sh,ng**.
 
-# Morphology and grammar
+## Morphology and grammar
 
 Single-syllable words can belong to any grammatical category. Multi-syllable words belong to a specific grammatical category, specified by the ending of the word.
 
@@ -76,5 +76,25 @@ Words ending in **e** are verbs. Verbs can carry the additional **n** or **t** e
 Words ending in **i** are adjectives or adverbs, depending on their position in the word: adjectives precede or follow nouns, adverbs precede adjectives or follow verbs. Adjectives can also carry the additional **n** or **t** endings.
 Words ending in **ei**, **ie** or **o** are prepositions and prefixes.
 
+### Articles
+
 The articles are **li** for the definite article and **en** for the indefinite article. The article **en** is pronounced _/ən/_. When this article needs to be stressed, it is written as **enn** and pronounced as _/en/_.
+
+### Nouns
+
+### Pronouns
+
+### Verbs
+
+### Adjectives
+
+### Adverbs
+
+### Prepositions
+
+### Numerals
+
+### Prefixes
+
+### Suffixes
 
