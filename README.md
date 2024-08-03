@@ -1,7 +1,7 @@
 # Anto
 A new auxlang (auxiliary language) derived from Ido, Interlingue, Novial, Neo and Glosa
 
-The first draft version of the **Anto** auxiliary language, its current working name, is published on 3 August 2024, in honor of the death date of **Louis Couturat**, exactly 100 years ago to the day, the primary creator of the **Ido** language.
+The first draft version of the **Anto** auxiliary language, its current working name, is published on 3 August 2024, in honor of the death date of **Louis Couturat**, exactly 100 years ago to the day, the primary creator of the **Ido** language. Anto can be used to mimic the grammatical categories and syntactic structures of specified natural languages.
 
 Ido was the first of the Esperanto offshoots (also known as Esperant**ido**s, meaning an **Esperanto** offshoot - hence the name). The name Anto in its turn is derived, being Ido's child, from the word for _child_ in Ido, _inf**anto**_, and is also a reference to its grandparent Esper**anto**. Other auxiliary languages from a later date, namely **Occidental-Interlingue**, **Novial** (incl. **Intal**), **Neo** and **Interglossa/Glosa**, have had a strong influence on the creation of the Anto language.
 
@@ -62,5 +62,19 @@ th  | /θ/ | Greek and English.
 w  | /ʊ/ | Only found next to a consonant. English.
 y  | /ɪ/ | Only found next to a consonant. Greek and English.
 
+# Phonotactics
+
+Syllables can only start with a vowel (including diphthongs), any single consonants, or any of the following consonant combinations: [similar to English].
+Syllables can only end in vowel (including diphthongs), or any of the following consonants: **m,n,l,r,s,t,q,w,y,p,f,k,c,sh,ch,ng**.
+
 # Morphology and grammar
+
+Single-syllable words can belong to any grammatical category. Multi-syllable words belong to a specific grammatical category, specified by the ending of the word.
+
+Words ending in a consonant, -**a** or -**ou** are singular nouns. The plural of a noun adds an -**s**.
+Words ending in **e** are verbs. Verbs can carry the additional **n** or **t** endings.
+Words ending in **i** are adjectives or adverbs, depending on their position in the word: adjectives precede or follow nouns, adverbs precede adjectives or follow verbs. Adjectives can also carry the additional **n** or **t** endings.
+Words ending in **ei**, **ie** or **o** are prepositions and prefixes.
+
+The articles are **li** for the definite article and **en** for the indefinite article. The article **en** is pronounced _/ən/_. When this article needs to be stressed, it is written as **enn** and pronounced as _/en/_.
 
