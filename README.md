@@ -74,8 +74,8 @@ Multi-syllable words are nearly always stressed on the syllable before the final
 - Plural nouns ending in -**as** or -**ous**.
 - Verbs ending in -**en** or -**et** (pronounced _/ən/_ and _/ət/_ resp.).
 - Prepositions ending in -**er** (pronounced _/ər/_).
-In those cases the penultimate syllable receives the stress.
-Words containing those sounds at the end of a word can still receive the stress on the final syllable, if they are written with doubled consonants at the end: **ss,nn,tt,rr**.
+- 
+In those cases the penultimate syllable receives the stress. Words containing those sounds at the end of a word can still receive the stress on the final syllable, if they are written with doubled consonants at the end: **ss,nn,tt,rr**.
  
 ## Morphology and grammar
 
