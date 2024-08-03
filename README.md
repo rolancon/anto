@@ -65,6 +65,7 @@ y  | /ɪ/ | Only found next to a consonant. Greek and English.
 ## Phonotactics
 
 Syllables can start with a vowel (including a diphthong), any single consonant, or any of the following consonant combinations: [similar to English].
+
 Syllables can only end in vowel (including diphthongs), or any of the following single or double consonants: **m,n,l,r,s,t,q,w,y,p,f,k,sh,ng**.
 
 ## Morphology and grammar
