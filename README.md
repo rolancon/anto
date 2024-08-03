@@ -70,16 +70,21 @@ Syllables can only end in vowel (including diphthongs), or any of the following 
 
 ## Stress
 
-TODO
-
+Multi-syllable words are nearly always stressed on the syllable before the final consonant in the word. The exceptions to this rule are:
+- Plural nouns ending in -**as** or -**ous**.
+- Verbs ending in -**en** or -**et** (pronounced _/ən/_ and _/ət/_ resp.).
+- Prepositions ending in -**er** (pronounced _/ər/_).
+In those cases the penultimate syllable receives the stress.
+Words containing those sounds at the end of a word can still receive the stress on the final syllable, if they are written with doubled consonants at the end: **ss,nn,tt,rr**.
+ 
 ## Morphology and grammar
 
 Single-syllable words can belong to any grammatical category. Multi-syllable words belong to a specific grammatical category, specified by the ending of the word.
 
-Words ending in a consonant, -**a** or -**ou** are singular nouns. The plural of a noun adds an -**s**.
+Words ending in a consonant (except these word endings: **as**, **ous**, **er**, **es** and **et**), -**a** or -**ou** are singular nouns. The plural of a noun adds an -**s**.
 Words ending in **e** are verbs. Verbs can carry the additional **n** or **t** endings.
 Words ending in **i** are adjectives or adverbs, depending on their position in the word: adjectives precede or follow nouns, adverbs precede adjectives or follow verbs. Adjectives can also carry the additional **n** or **t** endings.
-Words ending in **ei**, **ie** or **o** are prepositions and prefixes.
+Words ending in **ei**, **ie**, **o** or **er** are prepositions and prefixes.
 
 ### Articles
 
