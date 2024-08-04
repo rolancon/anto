@@ -16,7 +16,7 @@ au  | /aʊ/ | Diphthong.
 b  | /b/ | 
 c  | /ts/ | Affricate considered as unseparable sound.
 ch  | /tʃ/ | Affricate considered as unseparable sound.
-d  | /d/ | 
+d  | /d/ | Letter combinations **dz** and **dj** (pronounced as ) are affricates considered as unseparable sound.
 e  | /ɛ/, /ə/ | Pronounced _/ɛ/_, except at the end of a word in an unstressed syllable: -_/ə/_.
 ee  | /ɛ/ | Pronounced -_/ɛ/_; only found at the end of a word in an unstressed syllable.
 ei  | /eɪ/ | Diphthong.
@@ -25,13 +25,13 @@ g  | /g/ |
 gj  | /dʒ/ | Only written at the start of a word and pronounced as _/dʒ/_-.
 h  | /h/ | The **h** can be pronounced a voiced /ɦ/.
 i  | /i/ | 
-j  | ʒ | 
+j  | /ʒ/ | 
 k  | /k/ | 
 l  | /l/ | The **l** can be pronounced as dark /ɫ/.
 m  | /m/ | 
 n  | /n/ | 
-ng  | ŋ | 
-ny  | ɲ | Can also be pronounced as _/nj/_.
+ng  | /ŋ/ | 
+ny  | /ɲ/ | Can also be pronounced as _/nj/_.
 o  | /ɔ/ | 
 oi  | /ɔɪ/ | Diphthong.
 ou  | /oʊ/ | Diphthong.
@@ -49,12 +49,14 @@ xz  | /gz/ | Pronounced -_/gz/_-; only found in the middle of a word.
 y  | /j/ | Only found next to a vowel.
 z  | /z/ | 
 
-Uncommon sounds are used in words derived from Greek and English.
+Uncommon sounds are used in words derived from Greek, English or otherwise.
 Uncommon sound | IPA | Description
 ---|---|---
 '  | /ʔ/ | Appears only next to a vowel.
 .  | // | Expresses a missing sound, may be pronounced as a schwa: /ə/.
 ae  | /ɑ/ | English.
+dj  | /dʒ/ | Affricate considered as unseparable sound. Does not appear at the start of a word. English.
+dz  | /dz/ | Affricate considered as unseparable sound. Does not appear at the start of a word.
 eu  | /ɛʊ/ | Diphthong. Greek.
 dh  | /ð/ | English.
 oe  | /ə/ | Only found before an unstressed syllable. May be pronounced as rounded _/ɵ/_. English.
