@@ -7,6 +7,7 @@ Ido was the first of the **Esperanto** offshoots (also known as Esperant**ido**s
 
 ## Orthography and phonology
 
+Common sounds are used in words derived from Latin, Romance and Germanic languages.
 Common sound | IPA | Description
 ---|---|---
 a  | /a/ | 
