@@ -71,10 +71,11 @@ Syllables can only end in vowel (including diphthongs), or any of the following 
 ## Stress
 
 Multi-syllable words are nearly always stressed on the syllable before the final consonant in the word. The exceptions to this rule are:
-- Plural nouns ending in -**as** or -**ous**.
+- Plural nouns ending in -**as**, -**es** (pronounced _/əs/_) or -**ous**.
 - Verbs ending in -**en** or -**et** (pronounced _/ən/_ and _/ət/_ resp.).
+- Adjectives ending in -**in** or -**it**.
 - Prepositions ending in -**er** (pronounced _/ər/_).
-- 
+  
 In those cases the penultimate syllable receives the stress. Words containing those sounds at the end of a word can still receive the stress on the final syllable, if they are written with doubled consonants at the end: **ss,nn,tt,rr**.
  
 ## Morphology and grammar
