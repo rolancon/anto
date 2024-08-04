@@ -23,7 +23,7 @@ ei  | /eɪ/ | Diphthong.
 f  | /f/ | 
 g  | /g/ | 
 gj  | /dʒ/ | Only written at the start of a word and pronounced as _/dʒ/_-.
-h  | /h/ | The **h** can be pronounced a voiced /ɦ/.
+h  | /ɦ/ | The **h** can be pronounced a unvoiced /h/.
 i  | /i/ | 
 j  | /ʒ/ | 
 k  | /k/ | 
@@ -57,13 +57,15 @@ Uncommon sound | IPA | Description
 ae  | /ɑ/ | English.
 dj  | /dʒ/ | Affricate considered as unseparable sound. Does not appear at the start of a word. English.
 dz  | /dz/ | Affricate considered as unseparable sound. Does not appear at the start of a word.
+ee  | /ɛ/ | Greek **eta**.
 eu  | /ɛʊ/ | Diphthong. Greek.
 dh  | /ð/ | English.
 oe  | /ə/ | Only found before an unstressed syllable. May be pronounced as rounded _/ɵ/_. English.
-q  | /x/ | Greek.
-th  | /θ/ | Greek and English.
+oo  | /ɔ/ | Greek **omega**.
+q  | /x/ | Greek **chi**.
+th  | /θ/ | Greek **theta** and English.
 w  | /ʊ/ | Only found next to a consonant. English.
-y  | /ɪ/ | Only found next to a consonant. Greek and English.
+y  | /ɪ/ | Only found next to a consonant. Greek **upsilon** and English.
 
 ## Phonotactics
 
