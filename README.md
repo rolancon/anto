@@ -85,10 +85,11 @@ In those cases the penultimate syllable receives the stress. Words containing th
 
 Single-syllable words can belong to any grammatical category. Multi-syllable words belong to a specific grammatical category, specified by the ending of the word.
 
-Words ending in a consonant (except these word endings: **as**, **ous**, **er**, **es** and **et**), -**a** or -**ou** are singular nouns. The plural of a noun adds an -**s**.
+Base words ending in a consonant, -**a** or -**ou** are nouns. They can contains suffixes. The plural of a noun adds an -**s** or -**es**  (pronounced _/əs/_).
 Words ending in **e** are verbs. Verbs can carry the additional **n** or **t** endings.
 Words ending in **i** are adjectives or adverbs, depending on their position in the word: adjectives precede or follow nouns, adverbs precede adjectives or follow verbs. Adjectives can also carry the additional **n** or **t** endings.
-Words ending in **ei**, **ie**, **o** or **er** are prepositions and prefixes.
+Words ending in **ei**, **ie**, **o** or **er** are prepositions or prefixes.
+Base personal pronouns and numerals are single-syllable words.
 
 ### Articles
 
