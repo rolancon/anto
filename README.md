@@ -3,7 +3,7 @@ A new auxlang (auxiliary language) derived from Ido, Interlingue, Novial, Neo an
 
 The first draft version of the **Anto** auxiliary language, its current working name, is published on 3 August 2024, in honor of the death date of **Louis Couturat**, exactly 100 years ago to the day, the primary creator of the **Ido** language. Anto can be used to mimic the grammatical categories and syntactic structures of specified natural languages.
 
-Ido was the first of the **Esperanto** offshoots (also known as Esperant**ido**s, meaning an Esperanto offshoot - hence the name). The name Anto in its turn is derived, being Ido's child, from the word for _child_ in Ido, _inf**anto**_, and is also a reference to its grandparent Esper**anto**. Other auxiliary languages from a later date, namely **Occidental-Interlingue**, **Novial** (incl. **Intal**), **Neo** and **Interglossa/Glosa**, have had a strong influence on the creation of the Anto language.
+Ido was the first of the **Esperanto** offshoots (also known as Esperant**ido** - hence the name). The name Anto in its turn is derived, being Ido's child, from the word for _child_ in Ido, _inf**anto**_, and is also a reference to its grandparent Esper**anto**. Other auxiliary languages from a later date, namely **Occidental-Interlingue**, **Novial** (incl. **Intal**), **Neo** and **Interglossa/Glosa**, have had a strong influence on the creation of the Anto language.
 
 ## Orthography and phonology
 
