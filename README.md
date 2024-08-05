@@ -122,6 +122,13 @@ The articles are **li** for the definite article and **en** for the indefinite a
 
 ### Nouns
 
+Nouns are single or multi-syllabic words, that always end in an allowed single consonant, or one of the vowels **a, ie, ou, ue**.
+
+The plural is formed as follows:
+Words ending in a consontant, except for **q**,**s** and **sh**, or one of the vowels add an -**s**. Words ending in one of the consonants **q**,**s** and **sh** and an -**es**.
+
+A singular noun can be stand-alone for non-count nouns, or prececed by the indefinte article **en** for count nouns. A plural noun can be stand-alone preceded by the definite article **li**.
+
 ### Pronouns
 
 ### Verbs
