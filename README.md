@@ -59,7 +59,7 @@ dj  | /dʒ/ | Affricate considered as unseparable sound. Does not appear at the 
 dz  | /dz/ | Affricate considered as unseparable sound. Does not appear at the start of a word.
 eu  | /ɛʊ/ | Diphthong. Greek.
 dh  | /ð/ | English.
-oe  | /ə/ | Only found before an unstressed syllable. May also be pronounced as rounded _/ɵ/_ or as fronted rounded _/œ/_. English.
+oe  | /ə/ | Only found before an unstressed syllable. May also be pronounced as rounded _/ɵ/_ or as fronted rounded _/œ/_.
 q  | /x/ | Greek **chi**.
 th  | /θ/ | Greek **theta** and English.
 w  | /ʊ/ | Only found next to a consonant. English.
@@ -84,7 +84,7 @@ qu | qw | Always.
 x | x | At the start of a word en within words.
 x | xz | Within words before a vowel in a stressed syllable.
 
-The Greek alphabet can be transribed in Anto as follows.
+The following letters in the Greek alphabet can be transribed separately in Anto.
 Greek letter | Anto | IPA | Name
 ---|---|---|---
 η | ee  | /ɛ/ | **eta**.
